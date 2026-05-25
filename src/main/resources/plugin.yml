@@ -1,0 +1,4 @@
+name: NullDelivery
+version: '${project.version}'
+main: org.nooll.nulldelivery.NullDelivery
+api-version: '1.16'
